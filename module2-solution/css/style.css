@@ -1,1 +1,11 @@
 
+#littlebox1 {
+
+	border: 3px solid black;
+	background-color: pink;
+	color: black;
+	position: absolute;
+    right: 0;
+    top: 0;
+
+}
